@@ -86,3 +86,8 @@ crashlytics-build.properties
 # IDE settings
 .vscode/
 *.slnx
+
+# Apps in Toss SDK - 자동 보호 패턴
+Assets/WebGLTemplates/
+Assets/StreamingAssets/build_info
+Assets/StreamingAssets/build_info.meta
