@@ -18,4 +18,5 @@
 모든 학습 내용을 정복하고 마지막 단계에서 최종 결과물을 **Unity Play**에 제출하시면 유니티 생태계에 많은 도움이 됩니다.  
 
 ### 등장 인물
-해당 프로젝트에 등장하는 캐릭터는 **[Dragon Crusher URP 2D Sample Project](https://assetstore.unity.com/packages/essentials/tutorial-projects/dragon-crashers-urp-2d-sample-project-190721)**   에셋의 용사 3인방 중 하나인 마법사 **Griorgia** 입니다.
+해당 프로젝트에 등장하는 캐릭터는 **[Dragon Crusher](https://assetstore.unity.com/packages/essentials/tutorial-projects/dragon-crashers-urp-2d-sample-project-190721)** 에셋의  
+용사 3인방 중 하나인 마법사 **Griorgia** 입니다.
