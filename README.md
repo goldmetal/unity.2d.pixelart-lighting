@@ -1,8 +1,8 @@
 # 픽셀아트를 위한 2D 라이팅
 <p align="center">
   <img src="https://github.com/goldmetal/unity.2d.pixelart-lighting/blob/main/banner.png"><br>
-  <img src="https://img.shields.io/badge/Unity-000000?&logo=unity&logoColor=white"> &nbsp;
-  <img src="https://img.shields.io/badge/Visual_Scripting-5C2D91?&logoColor=white"> &nbsp;
+  <img src="https://img.shields.io/badge/Unity-000000?&logo=unity&logoColor=white" style="margin: 0 5px;>
+  <img src="https://img.shields.io/badge/Visual_Scripting-5C2D91?&logoColor=white" style="margin: 0 5px;>
   <img src="https://img.shields.io/badge/Pixel_Art-FF69B4?&logoColor=white">
 </p>
 유니티 URP 2D의 주요 기능인 Light 2D를 적극 활용하여 <br>
