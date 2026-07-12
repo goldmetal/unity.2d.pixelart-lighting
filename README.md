@@ -1,6 +1,6 @@
 # 픽셀아트를 위한 2D 라이팅
-![Unity Version](https://img.shields.io/badge/Unity-6000.5.2f1-202020?&logo=unity&logoColor=white)![Assets](https://img.shields.io/badge/Pixel_Art-FFD700?&logoColor=white)![Visual Scripting](https://img.shields.io/badge/Visual_Scripting-FFBF0F?&logo=visual-studio-code&logoColor=white)  
-![Banner](url)  
+![Banner](https://github.com/goldmetal/unity.2d.pixelart-lighting/blob/main/banner.png)
+<p align="center">![Unity Version](https://img.shields.io/badge/Unity-6000.5.2f1-202020?&logo=unity&logoColor=white) ![Assets](https://img.shields.io/badge/Pixel_Art-FFD700?&logoColor=white) ![Visual Scripting](https://img.shields.io/badge/Visual_Scripting-FFBF0F?&logo=visual-studio-code&logoColor=white)</p>  
 유니티 URP 2D의 주요 기능인 Light 2D를 적극 활용하여
 스프라이트만으로는 표현할 수 없는 멋진 장면을 연출하는 방법에 대해 익힐 수 있는 예제 프로젝트입니다.  
   
