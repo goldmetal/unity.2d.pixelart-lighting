@@ -1,7 +1,7 @@
 # 픽셀아트를 위한 2D 라이팅
 <p align="center">
   <img src="https://github.com/goldmetal/unity.2d.pixelart-lighting/blob/main/banner.png"><br>
-  <img src="https://img.shields.io/badge/Unity-000000?&logo=unity&logoColor=white" style="margin: 0 5px;">
+  <img src="https://img.shields.io/badge/Unity-6000.5.2f1-000000?&logo=unity&logoColor=white" style="margin: 0 5px;">
   <img src="https://img.shields.io/badge/Visual_Scripting-5C2D91?&logoColor=white" style="margin: 0 5px;">
   <img src="https://img.shields.io/badge/Pixel_Art-FF69B4?&logoColor=white">
 </p>
