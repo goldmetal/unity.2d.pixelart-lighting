@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/Visual_Scripting-5C2D91?&logoColor=white"> &nbsp;
   <img src="https://img.shields.io/badge/Pixel_Art-FF69B4?&logoColor=white">
 </p>
-유니티 URP 2D의 주요 기능인 Light 2D를 적극 활용하여  
+유니티 URP 2D의 주요 기능인 Light 2D를 적극 활용하여   
 스프라이트만으로는 표현할 수 없는 멋진 장면을 연출하는 방법에 대해 익힐 수 있는 예제 프로젝트입니다.  
   
 장면은 2개로 구분되어 있으며 학습을 위해서라면 Basic 장면ㅇ로 시작하시는 것을 추천드립니다.  
